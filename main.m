@@ -120,7 +120,7 @@ function output = timeCrystal (N, g, nT, V, D, varargin)
 IP = inputParser; 
 
 % optional arguments
-IP.addParameter('data2txt',true); % choose init. state of system
+IP.addParameter('data2txt',true); % choose to write data to txt file
 IP.addParameter('spinSite',2); % site of the observable spin
 IP.addParameter('initState','Neel'); % choose init. state of system
 
