@@ -19,7 +19,7 @@ The solver is self-contained within the "main.m" file. To run, simply change the
 
 ## Authors
 
-* **Reuben R. W. Wang** - *Initial work* - [ReubsWRW](https://github.com/reubenwangrongwen)
+* **Reuben R. W. Wang** - *Initial work* - [reubenwangrongwen](https://github.com/reubenwangrongwen)
 
 ## License
 
