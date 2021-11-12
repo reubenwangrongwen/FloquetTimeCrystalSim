@@ -15,7 +15,7 @@ The solver is self-contained within the "main.m" file. To run, simply change the
 
 ### Relevant Literature
 * [Mi et al.,	arXiv:2107.13571 (2021)](https://arxiv.org/abs/2107.13571)
-* * [Ippoliti et al., PRX Quantum 2, 030346 (2021)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.030346)
+* [Ippoliti et al., PRX Quantum 2, 030346 (2021)](https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.030346)
 
 ## Authors
 
